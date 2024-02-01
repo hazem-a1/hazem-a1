@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hazem Sobhy
 
-<!--
-**hazem-a1/hazem-a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer with expertise in React, Node.js, Firebase, and Google Cloud. I have experience in multiple programming languages including JavaScript, TypeScript, Kotlin, HTML, CSS, and I'm familiar with various web frameworks and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages
+- JavaScript
+- TypeScript
+- Kotlin
+- HTML
+- CSS
+
+### Frameworks and Tools
+- React.js
+- Next.js
+- Nest.js
+- Android Studio
+- Git
+- Jira
+- GitHub Copilot
+- Puppeteer
+
+### Testing
+- Jest
+
+### Databases
+- PostgreSQL
+- Firestore
+- MongoDB
+
+### Cloud Platforms
+- Google Cloud
+- Heroku
+- Netlify
+
+## Contact Me
+- Email: [hazem.z.sobhy@gmail.com](mailto:hazem.z.sobhy@gmail.com)
+- LinkedIn: [Hazem Sobhy](https://www.linkedin.com/in/hazem-sobhy-78b270142/)
+
+## Git Progress
+To view my past commits over the years, please visit my [GitHub profile](https://github.com/hazem-a1).
