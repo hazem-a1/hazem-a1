@@ -40,5 +40,3 @@ I'm a software developer with expertise in React, Node.js, Firebase, and Google 
 - Email: [hazem.z.sobhy@gmail.com](mailto:hazem.z.sobhy@gmail.com)
 - LinkedIn: [Hazem Sobhy](https://www.linkedin.com/in/hazem-sobhy-78b270142/)
 
-## Git Progress
-To view my past commits over the years, please visit my [GitHub profile](https://github.com/hazem-a1).
