@@ -12,10 +12,12 @@ I'm a software developer with expertise in React, Node.js, Firebase, and Google 
 - Kotlin
 - HTML
 - CSS
+- C#
 
 ### Frameworks and Tools
 - React.js
 - Next.js
+- Angular.js
 - Nest.js
 - Android Studio
 - Git
